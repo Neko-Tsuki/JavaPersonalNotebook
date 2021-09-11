@@ -21,7 +21,7 @@ If you are in a non-Chinese speaking area, please wait for updates or use transl
 
 
 
-##目錄結構：
+## 目錄結構：
 /root : 根目錄存儲Java學習筆記的正文  
 /root/Config : 存儲**Eclipse**的設置文件包括編碼設置和自動補全的設置，其他設置如有需要可以在此基礎上進行修改  
 /root/Qua_Ans : 存放關於Java基本環境配置容易出現的錯誤和狀況以及在編程中經常出現的錯誤  
