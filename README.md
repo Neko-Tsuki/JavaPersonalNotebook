@@ -22,10 +22,10 @@ If you are in a non-Chinese speaking area, please wait for updates or use transl
 
 
 ## 目錄結構：
-/root : 根目錄存儲Java學習筆記的正文  
-/root/Config : 存儲**Eclipse**的設置文件包括編碼設置和自動補全的設置，其他設置如有需要可以在此基礎上進行修改  
-/root/Qua_Ans : 存放關於Java基本環境配置容易出現的錯誤和狀況以及在編程中經常出現的錯誤  
-/root/Example : 存放部分例程  
+* /root : 根目錄存儲Java學習筆記的正文  
+* /root/Config : 存儲**Eclipse**的設置文件包括編碼設置和自動補全的設置，其他設置如有需要可以在此基礎上進行修改  
+* /root/Qua_Ans : 存放關於Java基本環境配置容易出現的錯誤和狀況以及在編程中經常出現的錯誤  
+* /root/Example : 存放部分例程  
 
 
 
@@ -34,3 +34,4 @@ If you are in a non-Chinese speaking area, please wait for updates or use transl
 2. 本教程全程使用`Eclipse 21.06 JavaEE & WebDevelopment`和`JDK 11.0.12`編寫
 3. **强烈不推薦**將JDK環境與Eclipse環境存放在一個目錄之下
 4. 本教程中所摘取的其他文章的内容會在相關章節結束後的下方列出，如有侵權可立即刪除
+5. 僅供個人學習交流無商用價值
