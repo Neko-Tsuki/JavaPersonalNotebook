@@ -1,22 +1,25 @@
 # JavaPersonalNotebook
 
+|Repository Name|Last Update|Language|
+|---|---|---|
+|Java Personal Notebook|2021/09/11 17:00 UTF+08:00|Zh_CN & Zh_TW|
 ## ENGLISH VERSION
 A Personal Java Notebook Only Chinese Tradition&amp;&amp;Chinese Simplified
 If you are in a non-Chinese speaking area, please wait for updates or use translation software to assist in understanding Thanks！
 
----
+
 
 ## 中文版本
 这是一个使用 Zh_CN && Zh_TW 编写的Java个人笔记
 如果您处在非中文地区，请等待更新或借助翻译软件辅助理解，感谢！
 
----
+
 
 ## 繁體版本
 這是一個使用 Zh_CN && Zh_TW 編寫的Java個人筆記
 如果您處在非中文區，請等待更新或藉助翻譯軟件輔助理解，拜謝！
 
----
+
 
 ##目錄結構：
 /root : 根目錄存儲Java學習筆記的正文
@@ -24,7 +27,7 @@ If you are in a non-Chinese speaking area, please wait for updates or use transl
 /root/Qua_Ans : 存放關於Java基本環境配置容易出現的錯誤和狀況以及在編程中經常出現的錯誤
 /root/Example : 存放部分例程
 
----
+
 
 ## 免責聲明
 1. 本教程僅爲入門的基礎教程，進階教程目前還未有編寫的打算，請耐心等待更新
